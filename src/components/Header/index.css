@@ -1,0 +1,44 @@
+.nav-container {
+  background-color: #fff7e2;
+  background-size: cover;
+  height: 10vh;
+}
+.nav-heading {
+  color: #3a643b;
+}
+.list-container {
+  display: flex;
+  list-style-type: none;
+  color: #3a643b;
+  font-weight: bold;
+}
+.nav-content-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.list {
+  margin-right: 25px;
+  font-size: 17px;
+}
+.login-button {
+  background-color: transparent;
+  border: 2px solid #3a643b;
+  height: 50px;
+  width: 90px;
+  color: #3a643b;
+  font-weight: bold;
+  font-size: 15px;
+  border-radius: 5px;
+  margin-right: 15px;
+}
+.sign-button {
+  background-color: #3a643b;
+  border-width: 0px;
+  height: 50px;
+  width: 90px;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 15px;
+  border-radius: 5px;
+}
